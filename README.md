@@ -40,4 +40,7 @@ To build a K-Nearest Neighbors (KNN) classifier using the built-in Iris dataset 
 - **Best K:** 1  
 - **Accuracy:** 100%  
 - **Confusion Matrix:**
+- [[10 0 0]
+  [ 0 7 0]
+  [ 0 0 13]]
 
